@@ -1,0 +1,9 @@
+{
+  "swaggerDefinition":{
+    "info":{
+      "title": "Ecommerce API avcodev",
+      "description":"This api has CRUD of products"
+    }
+  },
+  "apis": ["app.js"]
+}
