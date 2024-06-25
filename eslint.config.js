@@ -15,6 +15,6 @@ module.exports =  {
     'indent': ['error', 2], //Requiere una indentación de 2 espacios.
     'no-unused-vars': ['warn'], //Advierte sobre variables no utilizadas.
     'comma-dangle': ['error', 'only-multiline'], //Requiere una coma final en listas de objetos y arrays multilinea.
-    'space-before-function-paren': ['error', 'never'] //Requiere que no haya espacio antes de los paréntesis de las funciones.
+    'space-before-function-paren': ['error', 'never'], //Requiere que no haya espacio antes de los paréntesis de las funciones.
   }
 };
